@@ -2,6 +2,7 @@
 sequential_nav: none
 ---
 
+(reference-workshop-home)=
 # Workshop
 
 % Include start summary

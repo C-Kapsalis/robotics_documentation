@@ -1,3 +1,4 @@
+(how-tos-snap-configuration-for-cos)=
 # Write a configuration snap for {{ COS_ROB }}
 
 ```{warning}
