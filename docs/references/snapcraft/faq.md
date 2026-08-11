@@ -1,4 +1,5 @@
 (reference-snapcraft-faq-troubleshooting)=
+
 # FAQ & Troubleshooting
 
 This page reference ROS and ROS 2 snap  common questions and troubleshooting:
