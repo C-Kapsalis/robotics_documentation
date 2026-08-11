@@ -39,7 +39,7 @@ robotics applications through the following key phases:
 
 - **Snapcraft**: The tool used to package applications into snaps.
   Developers use it to create confined, secure, and portable packages.
-    > Get started with [Snapcraft tutorials for packaging and distributing ROS snap applications](#tutorials-snaps-core-roadmap)
+    > Get started with [Snapcraft tutorials for packaging and distributing ROS snap applications](#tutorials-snaps-core-learning-roadmap)
 - **[LXD Containers](https://documentation.ubuntu.com/lxd/en/stable-5.21/)**:
   Lightweight containers used to test applications in
   isolated environments before deployment.
@@ -52,7 +52,7 @@ robotics applications through the following key phases:
 
 - **[Snap Store](https://snapcraft.io/)**:
   The centralized repository for distributing snaps.
-  Once your ROS apps are [packaged with Snapcraft](#tutorials-snap-packaging-ros-application-getting-started),
+  Once your ROS apps are [packaged with Snapcraft](#tutorials-snaps-core-packaging-ros-application-getting-started),
   they are uploaded here.
   This store serves both the robot devices and the observability stack.
 
