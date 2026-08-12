@@ -73,7 +73,7 @@ robotics applications through the following key phases:
 We have implemented an observability stack ({{COS_ROB}})
 purposefully for ROS snap applications.
 - Tutorials can be found in the [observability section](#tutorials-observability-learning-roadmap).
-- How-to guides for customization can be found in the [{{COS_ROB}} section](#how-tos-snap-configuration-for-cos).
+- How-to guides for customization can be found in the [{{COS_ROB}} section](#how-tos-operation-snap-configuration-for-cos).
 ```
 
 - **[COS Lite](https://charmhub.io/topics/canonical-observability-stack/editions/lite)**:

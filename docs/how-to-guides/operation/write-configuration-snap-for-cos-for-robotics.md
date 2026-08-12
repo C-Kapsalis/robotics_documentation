@@ -1,4 +1,4 @@
-(how-tos-snap-configuration-for-cos)=
+(how-tos-operation-snap-configuration-for-cos)=
 
 # Write a configuration snap for {{ COS_ROB }}
 
