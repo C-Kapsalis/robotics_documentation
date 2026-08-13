@@ -29,7 +29,7 @@ In this documentation
 How this documentation is organized
 -------------------------------------
 
-- :doc:`tutorials/index` take you step by step through your first ROS and COS workflows, from installation to deploying robots and monitoring them in the field.
+- :doc:`tutorials/index` offer a hands-on, step-by-step introduction to Canonical's robotics solutions.
 - :doc:`how-to-guides/index` assume you have basic familiarity with Canonical's robotics stack. They cover practical tasks like the development, packaging, and maintenance of robotics applications.
 - :doc:`explanations/index` offers topic overviews and context on Snaps, Ubuntu Core, security, and observability.
 - :doc:`references/index` provides technical details on specifications, architecture, API documentation, and troubleshooting tips.
